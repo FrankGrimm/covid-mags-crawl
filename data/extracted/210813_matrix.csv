@@ -1,0 +1,83 @@
+"","0","1","2","3","4"
+"0","","Inzidenzstufe 0 
+(höchstens 10)","Inzidenzstufe 1 
+(von 10,1 bis 35)","Inzidenzstufe 2 
+(von 35,1 bis 50)","Inzidenzstufe 3 
+(über 50)"
+"1","Städteregion Aachen","","X","","Aufgrund der geringen 
+Zahl schwerer 
+Krankheitsverläufe und 
+Krankenhauseinweisungen 
+erfolgt vorläufig bis zum 
+19. August 2021 keine 
+Zuordnung zur  
+Inzidenzstufe 3. Im Fall 
+von erheblichen lokalen 
+Infektionsgeschehen 
+prüfen die betroffenen  
+Kreise und kreisfreien 
+Städte gemeinsam mit 
+dem Ministerium die 
+Erforderlichkeit von 
+gesonderten Regelungen 
+gemäß § 21 Abs. 2 Satz 2 
+CoronaSchVO."
+"2","Bielefeld","","X","",""
+"3","Bochum","","X","X (ab 15.08.)",""
+"4","Bonn","","","X",""
+"5","Borken","","X","",""
+"6","Bottrop","","X","",""
+"7","Coesfeld","X","","",""
+"8","Dortmund","","X","",""
+"9","Duisburg","","X","X (voraussichtlich 
+ab dem 16.08)**",""
+"10","Düren","","X","",""
+"11","Düsseldorf","","","X",""
+"12","Ennepe-Ruhr-Kreis","","X","",""
+"13","Essen","","X","",""
+"14","Euskirchen","X","X (voraussichtlich 
+ab dem 16.08)**","",""
+"15","Gelsenkirchen","","X","X (ab 14.08.)",""
+"16","Gütersloh","","","X",""
+"17","Hagen","","X","X (voraussichtlich 
+ab dem 16.08)**",""
+"18","Hamm","","X","",""
+"19","Heinsberg","","X","",""
+"20","Herford","","X","X (ab 15.08.)",""
+"21","Herne","","X","X (ab 15.08.)",""
+"22","Hochsauerlandkreis","","X","",""
+"23","Höxter","","X","",""
+"24","Kleve","","X","",""
+"25","Köln","","","X",""
+"26","Krefeld","","","X",""
+"27","Leverkusen","","X","X (ab 15.08.)",""
+"28","Lippe","","X","",""
+"29","Märkischer Kreis","","X","",""
+"30","Mettmann","","X","X (voraussichtlich 
+ab dem 16.08)**",""
+"31","Minden-Lübbecke","","X","",""
+"32","Mönchengladbach","","X","X (ab 15.08.)",""
+"33","Mülheim an der Ruhr","","X","",""
+"34","Münster","","X","",""
+"35","Oberbergischer Kreis","","","X",""
+"36","Oberhausen","","X","",""
+"37","Olpe","","X","",""
+"38","Paderborn","","X","",""
+"0","Recklinghausen","","X","",""
+"1","Remscheid","","X","",""
+"2","Rhein-Erft-Kreis","","","X",""
+"3","Rheinisch-Bergischer 
+Kreis","","X","",""
+"4","Rhein-Kreis Neuss","","X","",""
+"5","Rhein-Sieg-Kreis","","X","",""
+"6","Siegen-Wittgenstein","","X","",""
+"7","Soest","","X","",""
+"8","Solingen","","","X",""
+"9","Steinfurt","","X","",""
+"10","Unna","","X","",""
+"11","Viersen","","X","",""
+"12","Warendorf","","X","",""
+"13","Wesel","","X","",""
+"14","Wuppertal","","X","X (voraussichtlich 
+ab dem 16.08)**",""
+"15","gesamt (tagesaktuell)","2","43","8","0"

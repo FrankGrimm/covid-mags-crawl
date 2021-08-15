@@ -1,0 +1,80 @@
+"","0","1","2","3","4"
+"0","","Inzidenzstufe 0 
+(höchstens 10)","Inzidenzstufe 1 
+(von 10,1 bis 35)","Inzidenzstufe 2 
+(von 35,1 bis 50)","Inzidenzstufe 3 
+(über 50)"
+"1","Städteregion Aachen","","X","","Aufgrund der geringen 
+Zahl schwerer 
+Krankheitsverläufe und 
+Krankenhauseinweisungen 
+erfolgt vorläufig bis zum 
+19. August 2021 keine 
+Zuordnung zur  
+Inzidenzstufe 3. Im Fall 
+von erheblichen lokalen 
+Infektionsgeschehen 
+prüfen die betroffenen  
+Kreise und kreisfreien 
+Städte gemeinsam mit 
+dem Ministerium die 
+Erforderlichkeit von 
+gesonderten Regelungen 
+gemäß § 21 Abs. 2 Satz 2 
+CoronaSchVO."
+"2","Bielefeld","","X","",""
+"3","Bochum","","X","",""
+"4","Bonn","","X","",""
+"5","Borken","","X","",""
+"6","Bottrop","X","X (Voraussichtlich 
+ab 02.08.)**","",""
+"7","Coesfeld","X","X (ab 01.08.)","",""
+"8","Dortmund","X","X (ab 01.08.)","",""
+"9","Duisburg","X","X (ab 31.07)","",""
+"10","Düren","","X","",""
+"11","Düsseldorf","","","X",""
+"12","Ennepe-Ruhr-Kreis","X","","",""
+"13","Essen","X","X (ab 01.08.)","",""
+"14","Euskirchen","X","","",""
+"15","Gelsenkirchen","X","","",""
+"16","Gütersloh","X","X (ab 31.07)","",""
+"17","Hagen","","X","",""
+"18","Hamm","","X","",""
+"19","Heinsberg","","X","",""
+"20","Herford","X","X (ab 31.07)","",""
+"21","Herne","X","X (Voraussichtlich 
+ab 02.08.)**","",""
+"22","Hochsauerlandkreis","X","X (ab 01.08.)","",""
+"23","Höxter","","X","",""
+"24","Kleve","","X","",""
+"25","Köln","","X","",""
+"26","Krefeld","","X","",""
+"27","Leverkusen","","X","",""
+"28","Lippe","","X","",""
+"29","Märkischer Kreis","X","","",""
+"30","Mettmann","","X","",""
+"31","Minden-Lübbecke","","X","",""
+"32","Mönchengladbach","X","X (ab 01.08.)","",""
+"33","Mülheim an der Ruhr","X","","",""
+"34","Münster","","X","",""
+"35","Oberbergischer Kreis","","X","",""
+"36","Oberhausen","","X","",""
+"37","Olpe","X","","",""
+"0","Paderborn","","X","",""
+"1","Recklinghausen","","X","",""
+"2","Remscheid","X","","",""
+"3","Rhein-Erft-Kreis","X","X (ab 31.07)","",""
+"4","Rheinisch-Bergischer 
+Kreis","X","","",""
+"5","Rhein-Kreis Neuss","","X","",""
+"6","Rhein-Sieg-Kreis","X","X (ab 31.07)","",""
+"7","Siegen-Wittgenstein","X","","",""
+"8","Soest","X","","",""
+"9","Solingen","","","X",""
+"10","Steinfurt","","X","",""
+"11","Unna","X","","",""
+"12","Viersen","X","X (ab 01.08.)","",""
+"13","Warendorf","X","","",""
+"14","Wesel","","X","",""
+"15","Wuppertal","","X","",""
+"16","gesamt (tagesaktuell)","25","26","2","0"

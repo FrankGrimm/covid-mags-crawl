@@ -1,0 +1,78 @@
+"","0","1","2","3","4"
+"0","","Inzidenzstufe 0 
+(höchstens 10)","Inzidenzstufe 1 
+(von 10,1 bis 35)","Inzidenzstufe 2 
+(von 35,1 bis 50)","Inzidenzstufe 3 
+(über 50)"
+"1","Städteregion Aachen","","X","","Aufgrund der geringen 
+Zahl schwerer 
+Krankheitsverläufe und 
+Krankenhauseinweisungen 
+erfolgt vorläufig bis zum 
+19. August 2021 keine 
+Zuordnung zur  
+Inzidenzstufe 3. Im Fall 
+von erheblichen lokalen 
+Infektionsgeschehen 
+prüfen die betroffenen  
+Kreise und kreisfreien 
+Städte gemeinsam mit 
+dem Ministerium die 
+Erforderlichkeit von 
+gesonderten Regelungen 
+gemäß § 21 Abs. 2 Satz 2 
+CoronaSchVO."
+"2","Bielefeld","","X","",""
+"3","Bochum","","X","",""
+"4","Bonn","","X","",""
+"5","Borken","","X","",""
+"6","Bottrop","","X","",""
+"7","Coesfeld","X (ab 12.08.)","X","",""
+"8","Dortmund","","X","",""
+"9","Duisburg","","X","",""
+"10","Düren","","X","",""
+"11","Düsseldorf","","","X",""
+"12","Ennepe-Ruhr-Kreis","","X","",""
+"13","Essen","","X","",""
+"14","Euskirchen","X","","",""
+"15","Gelsenkirchen","","X","",""
+"16","Gütersloh","","X","",""
+"17","Hagen","","X","",""
+"18","Hamm","","X","",""
+"19","Heinsberg","","X","",""
+"20","Herford","","X","",""
+"21","Herne","","X","",""
+"22","Hochsauerlandkreis","","X","",""
+"23","Höxter","","X","",""
+"24","Kleve","","X","",""
+"25","Köln","","X","X (ab 12.08.)",""
+"26","Krefeld","","X","",""
+"27","Leverkusen","","X","",""
+"28","Lippe","","X","",""
+"29","Märkischer Kreis","","X","",""
+"30","Mettmann","","X","",""
+"31","Minden-Lübbecke","","X","",""
+"32","Mönchengladbach","","X","",""
+"33","Mülheim an der Ruhr","","X","",""
+"34","Münster","","X","",""
+"35","Oberbergischer Kreis","","X","X (ab 12.08.)",""
+"36","Oberhausen","","X","",""
+"37","Olpe","X","","",""
+"38","Paderborn","","X","",""
+"39","Recklinghausen","","X","",""
+"40","Remscheid","","X","",""
+"41","Rhein-Erft-Kreis","","","X",""
+"42","Rheinisch-Bergischer 
+Kreis","","X","",""
+"0","Rhein-Kreis Neuss","","X","",""
+"1","Rhein-Sieg-Kreis","","X","",""
+"2","Siegen-Wittgenstein","","X","",""
+"3","Soest","","X","",""
+"4","Solingen","","","X",""
+"5","Steinfurt","","X","",""
+"6","Unna","","X","",""
+"7","Viersen","","X","",""
+"8","Warendorf","","X","",""
+"9","Wesel","","X","",""
+"10","Wuppertal","","X","",""
+"11","gesamt (tagesaktuell)","2","48","3","0"
