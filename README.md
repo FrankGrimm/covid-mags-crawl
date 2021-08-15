@@ -9,4 +9,5 @@ pip install -r requirements.txt
 # if that missed anything try pip install "camelot-py[cv]"
 python download.py
 python extract.py
+python combine.py # writes the final output into ./data/full.csv and ./data/totals.csv
 ```
