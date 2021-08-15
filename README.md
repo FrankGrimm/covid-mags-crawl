@@ -1,3 +1,7 @@
+# covid-mags-crawl
+
+Machine readable (automatically extracted) tables published by [MAGS NRW](https://www.mags.nrw/) on the current incidence rules for counties and cities in NRW, Germany.
+
 # setup
 
 ```bash

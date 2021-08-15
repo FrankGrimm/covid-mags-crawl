@@ -13,11 +13,19 @@ EXTRACT_DIR = "./data/extracted"
 DATE_FORMAT = "%y%m%d"
 FILENAME_SUFFIX = "_matrix.pdf"
 
+force_extract = "-f" in sys.argv
+
 def filename_to_date(f):
     return datetime.strptime(os.path.basename(f).replace(FILENAME_SUFFIX, ""), DATE_FORMAT)
 
 def extract(date, filename):
     bname = os.path.basename(filename)
+    extract_filename = os.path.join(EXTRACT_DIR, bname.replace(".pdf", ".csv"))
+
+    if os.path.exists(extract_filename) and not force_extract:
+        print(f"[extract/skip] {date} {bname}")
+        return
+
     print(f"[extract] {date} {bname}")
 
     tables = camelot.read_pdf(filename, stream=True, pages="1-end")
@@ -27,7 +35,6 @@ def extract(date, filename):
     if len(dfs) > 1:
         df = pd.concat(dfs)
 
-    extract_filename = os.path.join(EXTRACT_DIR, bname.replace(".pdf", ".csv"))
 
     df.to_csv(extract_filename,
               sep=",",
